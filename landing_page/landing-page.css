@@ -91,6 +91,10 @@ main .order button.order {
     color: beige;
 }
 
+main .order button a {
+    color: beige;
+}
+
 main .slide {
     /* background-color: transparent; */
     overflow-y: scroll;
@@ -123,17 +127,16 @@ main .slide h5 {
     main h3 {
         font-size: 18px;
     }
-    main h4{
+    main h4 {
         font-size: 16px;
     }
-
     main .order h4 {
         font-size: 14px;
     }
     main .slide h5 {
         font-size: 16px;
     }
-    main .order button.order{
+    main .order button.order {
         width: 130px;
         font-size: 12px;
     }
